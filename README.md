@@ -72,3 +72,8 @@ Edge toward embodied AI: This is a small but real step toward AI systems that un
 
 Eunwoo Choi (20260464)
 Jiwon kim (20260957)
+
+🔄 Revision (v1.1)
+
+Applied feedback: win/loss result and score now displayed directly on the webcam window in real time
+Future improvement: apply object segmentation to remove background noise and improve gesture recognition accuracy
