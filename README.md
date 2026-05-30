@@ -65,5 +65,4 @@ Input: Laptop webcam
 
 최은우 (20260464)
 김지원 (20260957)
-
-EF1003 Data Literacy Foundation — KENTECH, 2025공유콘텐츠pdf
+츠pdf
