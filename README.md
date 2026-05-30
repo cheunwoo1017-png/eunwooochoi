@@ -57,14 +57,10 @@ Edge toward embodied AI: This is a small but real step toward AI systems that un
 
 🛠️ Tech Stack
 
--Language: Python
-
--Model: TensorFlow / Keras (.h5)
-
--Vision: OpenCV
-
--Training: Google Teachable Machine
-
+-Language: Python&nbsp;
+-Model: TensorFlow / Keras (.h5)&nbsp;
+-Vision: OpenCV&nbsp;
+-Training: Google Teachable Machine&nbsp;
 -Input: Laptop webcam
 
 
