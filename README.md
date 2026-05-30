@@ -16,11 +16,11 @@ The winner of each round is determined and scores are tracked over 5 rounds
 
 📁 File Structure
 rps-game/
-|
+
 ├── main.py           # Main game loop
-|
+
 ├── keras_model.h5    # Trained Teachable Machine model
-|
+
 └── labels.txt        # Class labels (scissors / rock / paper)
 
 🧠 Model & Dataset
@@ -57,10 +57,14 @@ Edge toward embodied AI: This is a small but real step toward AI systems that un
 
 🛠️ Tech Stack
 
--Language: Python&nbsp;
--Model: TensorFlow / Keras (.h5)&nbsp;
--Vision: OpenCV&nbsp;
--Training: Google Teachable Machine&nbsp;
+-Language: Python
+
+-Model: TensorFlow / Keras (.h5)
+
+-Vision: OpenCV
+
+-Training: Google Teachable Machine
+
 -Input: Laptop webcam
 
 
