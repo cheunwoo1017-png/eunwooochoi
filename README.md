@@ -63,5 +63,5 @@ Input: Laptop webcam
 
 👥 Authors
 
-최은우 (20260464)
-김지원 (20260957)
+Eunwoo Choi (20260464)
+Jiwon kim (20260957)
